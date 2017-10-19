@@ -1,0 +1,46 @@
+.mainBox {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    display: inline-block;
+}
+
+.secondBox {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.thirdBox {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    right: 50px;
+    left: 0px;
+}
+
+.mainBox2 {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin-left:10px;
+    display: inline-block;
+}
+
+.secondBoxOne {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.secondBoxTwo {
+    width: 200px;
+    height: 200px;
+    background-color: darkgreen;
+    position: relative;
+    left:100px;
+}
